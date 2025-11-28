@@ -18,7 +18,7 @@ Our team designed a **Tilt-Rotor VTOL UAV** capable of vertical takeoff and effi
 * **Simulation:** Validated aerodynamics and transition logic in MATLAB/Simulink & Gazebo.
 * **Autonomy:** Implemented mission planning and fail-safe protocols using ArduPilot.
 
-> ![METU VTOL Project](assets/d4.png)
+> ![METU VTOL Project](assets/d4.jpeg)
 
 ---
 
@@ -46,7 +46,7 @@ A collection of UAV platforms I have built and flown over the years.
 
 | Fixed Wing UAV | Quadcopter UAV | VTOL UAV
 | :---: | :---: | :---: |
-| ![Fixed Wing](assets/mor_menekse.png) | ![Quadcopter](assets/dron_2.png) | ![VTOL](assets/d2.png) |
+| ![Fixed Wing](assets/mor_menekse.png) | ![Quadcopter](assets/dron_2.png) | ![VTOL](assets/d2.jpeg) |
 
 ---
 
