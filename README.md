@@ -9,7 +9,7 @@ Hi, I'm **Serdar Sökmen**. I am an Electrical-Electronics Engineering student a
 ---
 
 ## 🏆 Featured Project: METU VTOL 2025
-**Role:** Avionics Lead & Flight Control Algorithm Designer
+**Role:** Team Leader & Avionics Leader and Flight Control Algorithm Designer
 
 Our team designed a **Tilt-Rotor VTOL UAV** capable of vertical takeoff and efficient forward flight. This project was selected as a **Finalist** in the prestigious METU VTOL Aircraft Competition 2025.
 
@@ -18,7 +18,7 @@ Our team designed a **Tilt-Rotor VTOL UAV** capable of vertical takeoff and effi
 * **Simulation:** Validated aerodynamics and transition logic in MATLAB/Simulink & Gazebo.
 * **Autonomy:** Implemented mission planning and fail-safe protocols using ArduPilot.
 
-> *[Buraya Uçuş veya CAD görselini ekleyeceğiz]*
+> ![METU VTOL Project](assets/d4.png)
 
 ---
 
@@ -30,24 +30,23 @@ A complete simulation environment where a drone autonomously tracks and follows 
 * **Tech:** MATLAB, Simulink, Computer Vision.
 * **Result:** Successful tracking with real-time PID adjustments.
 
-> *[Buraya Visual Servoing GIF'ini ekleyeceğiz]*
+> ![Visual Servoing Simulation](assets/visual.png)
 
 ### 2. ⚡ Hybrid Power Management System (HAK)
 A critical safety system designed to switch power sources from Hydrogen Fuel Cell to Li-Po battery in under 5ms during failure.
 * **Tech:** Simscape Electrical, Stateflow.
 * **Result:** Verified seamless transition with zero voltage drop.
 
-> *[Buraya HAK Voltaj Grafiğini ekleyeceğiz]*
+> ![HAK System Graph](assets/hak.jpeg)
 
 ---
 
 ## 🛠️ Hangar (Other Projects)
 A collection of UAV platforms I have built and flown over the years.
 
-| Fixed Wing UAV | Quadcopter Payload Test | Custom PCB Design |
+| Fixed Wing UAV | Quadcopter UAV | VTOL UAV
 | :---: | :---: | :---: |
-| *[Resim Gelecek]* | *[Resim Gelecek]* | *[Resim Gelecek]* |
-| Long Endurance Survey | 2kg Payload Capacity | Power Distribution Board |
+| ![Fixed Wing](assets/mor_menekse.png) | ![Quadcopter](assets/dron_2.png) | ![VTOL](assets/d2.png) |
 
 ---
 
