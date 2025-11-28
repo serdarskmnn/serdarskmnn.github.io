@@ -50,6 +50,13 @@ A collection of UAV platforms I have built and flown over the years.
 
 ---
 
+### 📺 Flight Test Archive
+Detailed flight logs, PID tuning sessions, and raw VTOL transition videos are hosted on my cloud drive:
+
+[![Google Drive](https://img.shields.io/badge/Google_Drive-Watch_Flight_Videos-FFD04B?style=for-the-badge&logo=google-drive&logoColor=black)](https://drive.google.com/drive/folders/1MmwJMkeCWXLCqxGQz651SOQ_ts-VBhMv?usp=sharing)
+
+---
+
 ### 🎓 Certifications & Education
 * **B.Sc. Electrical-Electronics Engineering** - Bursa Technical University (2023 - 2028)
 * **UAV-1 Commercial Pilot License** - SHGM
