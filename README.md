@@ -20,6 +20,8 @@ Our team designed a **Tilt-Rotor VTOL UAV** capable of vertical takeoff and effi
 
 > ![METU VTOL Project](assets/d4.png)
 
+> ![TEKNOFEST Project](assets/stingray_firfir.png)
+
 ---
 
 ## 🧠 Simulation Lab
@@ -44,10 +46,10 @@ A critical safety system designed to switch power sources from Hydrogen Fuel Cel
 ## 🛠️ Hangar (Other Projects)
 A collection of UAV platforms I have built and flown over the years.
 
-### ✈️ Fixed Wing UAV (Long Endurance Survey)
+### ✈️ Fixed Wing UAV
 ![Fixed Wing](assets/mor_menekse.png)
 
-### 🚁 Quadcopter UAV (Payload Test Platform)
+### 🚁 Quadcopter UAV 
 ![Quadcopter](assets/dron_2.png)
 
 ### 🚀 VTOL UAV (Tilt-Rotor Prototype)
