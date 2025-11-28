@@ -44,9 +44,14 @@ A critical safety system designed to switch power sources from Hydrogen Fuel Cel
 ## 🛠️ Hangar (Other Projects)
 A collection of UAV platforms I have built and flown over the years.
 
-| Fixed Wing UAV | Quadcopter UAV | VTOL UAV
-| :---: | :---: | :---: |
-| ![Fixed Wing](assets/mor_menekse.png) | ![Quadcopter](assets/dron_2.png) | ![VTOL](assets/d2.png) |
+### ✈️ Fixed Wing UAV (Long Endurance Survey)
+![Fixed Wing](assets/mor_menekse.png)
+
+### 🚁 Quadcopter UAV (Payload Test Platform)
+![Quadcopter](assets/dron_2.png)
+
+### 🚀 VTOL UAV (Tilt-Rotor Prototype)
+![VTOL](assets/d2.png)
 
 ---
 
